@@ -26,7 +26,7 @@ Para aislar las dependencias del proyecto, se recomienda crear y activar un ento
 
 ```bash
 # Crear el entorno virtual (puedes usar el nombre que desees)
-python -m venv libproyecto
+python3 -m venv libproyecto
 
 # Activar el entorno virtual
 source libproyecto/bin/activate
