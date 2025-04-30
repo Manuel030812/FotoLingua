@@ -44,7 +44,7 @@ pip install ultralytics     # Para utilizar modelos YOLO
 
 #¡Esperamos que disfrutes aprendiendo con FotoLingua! 📚🖼️🔊
 
-#Solo cópialo tal cual y pégalo en tu archivo `README.md`.
+#Solo cópialo tal cual y pégalo en tu terminal de linux.
 
 
 
